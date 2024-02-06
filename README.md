@@ -1,7 +1,6 @@
 ## TO DO LIST ##
 
-
-### Reservation ###
+### Reservation ###
 
 - [ ] Check and upgrade files.
 - [ ] Translate codes in english.
