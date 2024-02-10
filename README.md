@@ -1,11 +1,14 @@
-## TO DO LIST ##
+# Web in HTML, PHP, CSS, JavaScript #
 
-- [ ] Add a summary in readme.
+This repository contains web implementations.
+
+## Prerequisites ##
+
+## TO DO LIST ##
 
 ### Reservation ###
 
-- [ ] Check and upgrade files.
+- [ ] Check and update files.
 - [ ] Translate codes in english.
-- [ ] Upgrade report.
+- [ ] Update report.
 - [ ] Reorganize files.
-
