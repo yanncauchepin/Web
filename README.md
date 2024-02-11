@@ -13,3 +13,4 @@ This repository contains web implementations.
 - [ ] Translate codes in english.
 - [ ] Update report.
 - [ ] Reorganize files.
+- [ ] Adapt the repository to well developer traditions.
